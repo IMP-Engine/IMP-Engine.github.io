@@ -1,0 +1,26 @@
+{% include header.html %}
+
+    {% include banner.html %}
+
+    <div class="wrapper">
+
+    {{ content }}
+    {% include page-nav.html %}
+
+    {% for post in site.posts %}
+    <section>
+        {{ repo }}
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h1>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h1>
+        {{ post.content }}
+    </section>
+    {% endfor %}
+
+
+    </div>
+
+
+
+{% include footer.html %}
