@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Week 4: Let the coding begin"
+date:   2017-02-10 18:57
+---
+
 We started setting up the project each of the members computer. We had some issues 
 getting CMake to work correctly on everyone's computer (Windows and Ubuntu). 
 We started implementing basic building blocks such as basic rendering (Pontus), 
