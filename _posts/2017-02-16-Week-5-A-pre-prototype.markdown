@@ -17,3 +17,7 @@ issues regarding the course work, such as booking a time for the info-lab. We al
 started to look for a group to collaborate with for the first supervisory laboration 
 provided by Fackspråk. Additionally we decided that Adam and Patrick would handle the 
 halftime presentation and that Pontus and Love would take care of the oral part of the opposition.
+
+## Preview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GLwxgTyauRk" frameborder="0" allowfullscreen></iframe>
