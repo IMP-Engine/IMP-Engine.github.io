@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 9: A New Hope"
+title:  "Week 9: Course Week 1 v2.0"
 date:   2017-03-23 15:37
 ---
 
