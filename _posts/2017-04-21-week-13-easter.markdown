@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Week 13: Easter week"
+date:   2017-04-21 16:10
+---
+
+Easter week, so another week where there was less time spent.
+Work was done on GS vs Jacobi, another look at surface 
+rendering and cloth was finalized. Work on the report continues.
